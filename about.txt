@@ -1,0 +1,1 @@
+This repo contain comparison between my custome neural network architecture and pre-trained architecture
